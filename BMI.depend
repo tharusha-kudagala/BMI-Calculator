@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1551962854 source:c:\users\tharusha kudagala\documents\codeblocks-projects\bmi\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
