@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <stdlib.h>
 #include <math.h>
 
 float f_i()
@@ -150,5 +151,6 @@ int main()
    else
         printf(" Obesity (Class 3) [+!!!]\n");
    printf("\n\n<------------------------------------------>\n\n");
+   system("Pause");
     return 0;
 }
